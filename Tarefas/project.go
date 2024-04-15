@@ -1,4 +1,4 @@
-package tasks
+package tarefas
 
 type Project struct {
 	ID         string

@@ -1,4 +1,4 @@
-package tasks
+package tarefas
 
 type Assignee struct {
 	ID             string //identificador do usuário
